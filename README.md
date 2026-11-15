@@ -8,7 +8,7 @@ Proyecto grupal de la Evaluación 06 de Fundamentos de Programación (TDS-002) e
 |---|---|---|---|
 | Cristian Alberto De Luna Santana | 2026-0704 | @cdelunasec | Menú principal (`Program.cs`), validación de entradas (`Entrada.cs`), datos (`Datos.cs`), reporte del gimnasio (`Reportes.cs`) y este README |
 | Justin Mercedes | 2026-0701 | @JMercedes00 | Registro, lista y búsqueda de miembros (`Miembros.cs`) |
-| Wilfre _(apellido)_ | 2026-0718 | @sl4zyy | Precios, descuentos y pagos (`Pagos.cs`) |
+| Wilfre Mateo Medina | 2026-0718 | @sl4zyy | Precios, descuentos y pagos (`Pagos.cs`) |
 
 ## Descripción
 
