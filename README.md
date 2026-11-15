@@ -6,10 +6,9 @@ Proyecto grupal de la Evaluación 06 de Fundamentos de Programación (TDS-002) e
 
 | Integrante | Matrícula | Parte que hizo |
 |---|---|---|
-| Cristian Alberto De Luna Santana | 20260704 | Menú principal (`Program.cs`), validación de entradas (`Entrada.cs`) y datos (`Datos.cs`) |
+| Cristian Alberto De Luna Santana | 20260704 | Menú principal (`Program.cs`), validación de entradas (`Entrada.cs`), datos (`Datos.cs`), reporte del gimnasio (`Reportes.cs`) y este README |
 | _Nombre integrante 2_ | _matrícula_ | Registro, lista y búsqueda de miembros (`Miembros.cs`) |
 | _Nombre integrante 3_ | _matrícula_ | Precios, descuentos y pagos (`Pagos.cs`) |
-| _Nombre integrante 4_ | _matrícula_ | Reporte del gimnasio (`Reportes.cs`) y este README |
 
 ## Descripción
 
